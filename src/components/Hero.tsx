@@ -19,7 +19,7 @@ const Hero = () => {
             <Avatar className="w-32 h-32 flex-shrink-0 aspect-square mt-4 shadow-lg ring-4 ring-primary/20 overflow-hidden">
               <AvatarImage src="/rujipas.jpeg" alt="Rujipas Chorfah" className='object-cover w-full h-full object-[center_5%]' />
               <AvatarFallback className="text-2xl font-semibold bg-primary text-primary-foreground">
-                AT
+                JZ
               </AvatarFallback>
             </Avatar>
           </div>
@@ -65,7 +65,7 @@ const Hero = () => {
             </div>
           </div>
         </div>
-        <div className="animate-fade-in w-full max-w-4xl mx-auto" style={{ animationDelay: '0.4s' }}>
+        <div className="animate-fade-in w-full max-w-xl mx-auto" style={{ animationDelay: '0.4s' }}>
           <div className="w-full text-left p-6 bg-card/50 backdrop-blur-sm rounded-lg border border-border shadow-sm">
             <div className="font-mono text-sm text-muted-foreground">
               <div className="mb-2 text-primary">{'{'}</div>
@@ -80,7 +80,7 @@ const Hero = () => {
                 </div>
                 <div>
                   <span className="text-primary">"specialization":</span>
-                  <span className="ml-2">["Integration", "Automation", "Internal Tools"]</span>
+                  <span className="ml-2">["Integration", "Automation"]</span>
                 </div>
                 <div>
                   <span className="text-primary">"stack":</span>
