@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website, built with **React**, **TypeScript**, and **Tailwind CSS**. This site showcases my professional experience, featured projects, technical skills, and education — all designed to reflect my passion for automation, HR tech, and modern web development.
 
-🔗 **Live Demo:** [rujipas.site](https://rujipas.site)  
+🔗 **Live Demo:** [rujipas.site](https://rujipas-port.vercel.app/)  
 📄 **Download Resume:** [PDF Resume](https://firebasestorage.googleapis.com/v0/b/cg-ses-files-upload.appspot.com/o/hostingImage%2Frujipas_cv.pdf?alt=media&token=adb7a443-4b97-48f4-9605-862215d43178)
 
 ---
