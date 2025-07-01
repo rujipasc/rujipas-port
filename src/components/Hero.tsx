@@ -65,8 +65,8 @@ const Hero = () => {
             </div>
           </div>
         </div>
-        <div className="animate-fade-in" style={{ animationDelay: '0.4s' }}>
-          <div className="inline-block p-6 bg-card/50 backdrop-blur-sm rounded-lg border border-border shadow-sm">
+        <div className="animate-fade-in w-full max-w-4xl mx-auto" style={{ animationDelay: '0.4s' }}>
+          <div className="w-full text-left p-6 bg-card/50 backdrop-blur-sm rounded-lg border border-border shadow-sm">
             <div className="font-mono text-sm text-muted-foreground">
               <div className="mb-2 text-primary">{'{'}</div>
               <div className="pl-4 space-y-1">
